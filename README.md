@@ -13,8 +13,7 @@ A set of Postman test cases have been created to cover different scenarios for t
 Newman is a command-line collection runner for Postman. It allows you to run and test a Postman collection directly from the command line.
 
 **Prerequisites**
-Node.js installed on your system.[test case numtoword conv.xlsx](https://github.com/user-attachments/files/17578918/test.case.numtoword.conv.xlsx)
-
+Node.js installed on your system
 Newman installed globally via npm.
 Installation
 Install Node.js.
@@ -23,3 +22,4 @@ npm install -g newman
 URL of the project https://www.dataaccess.com/webservicesserver/NumberConversion.wso?op=NumberToWords
 
 **Newman Summary Report**: file:///C:/Users/sasha/OneDrive/Desktop/swetha/thetestingacademy%20Aut%20cours/newman%20API%20html%20run%20report/API%20testing%20-SOAP%20project1-2024-10-15-01-49-50-542-0.html
+TEST CASES Excel document:[test case numtoword conv.xlsx](https://github.com/user-attachments/files/17578936/test.case.numtoword.conv.xlsx)
